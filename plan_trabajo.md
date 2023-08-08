@@ -36,7 +36,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 |    Guillermo Jorge    |   1107266        |
 |  Denzel Perez       |   1102259        |
 |  Sebastian Alcantara       |   1102556        |
-|  Avis Zucco       |   1104970        |
+|  Avis Zucco       |   1104970   |
 
 ---
 
