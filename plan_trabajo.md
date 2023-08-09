@@ -34,7 +34,7 @@ A continuación se tiene el listado de actividades a lo largo del trimestre.
 | ------- | --------- |
 |    Rayfel Ogando     |  1107535         |
 |    Guillermo Jorge    |   1107266        |
-|  Denzel Perez        |   1102259        |
+|  Denzel Perez   |   1102259        |
 |  Sebastian Alcantara       |   1102556        |
 |  Avis Zucco       |   1104970   |
 
